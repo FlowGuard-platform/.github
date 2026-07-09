@@ -234,8 +234,3 @@ Models are trained on **CIC-IDS2018** (Canadian Institute for Cybersecurity). Cl
 
 ---
 
-<div align="center">
-
-Built as a research platform for SDN-based network security · Contributions and feedback welcome
-
-</div>
